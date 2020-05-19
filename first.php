@@ -19,6 +19,7 @@ if (!empty($_POST['action'])) {
 <title>ナンバー1</title>
 </head>
 <body>
+<h1>名前入力</h1>
 <form action="" method="post">
 <p>名前</p>
 <input type="text" name="name"><br>
