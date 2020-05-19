@@ -1,6 +1,6 @@
 <?php
 session_start();
-if (empty($_SESSION['name'])) {
+if (empty($_SESSION['name']) || empty($_SESSION['nickname'])) {
 	header('Location: first.php');
 	exit();
 }
