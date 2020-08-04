@@ -38,6 +38,8 @@ if (!empty($_POST['action'])) {
 <?php if(!empty($error2)): ?>
 <p><?php echo $error2; ?></p>
 <?php endif; ?>
+<p>メールアドレス</p>
+<input type="text" name="email">
 <p><input type="submit" name="action" value="登録"></p>
 </form>
 </body>
