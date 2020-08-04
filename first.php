@@ -23,7 +23,7 @@ if (!empty($_POST['action'])) {
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title>ナンバー1</title>
+<title>ナンバー1 ver.1.0</title>
 </head>
 <body>
 <h1>名前入力</h1>
