@@ -40,6 +40,8 @@ if (!empty($_POST['action'])) {
 <?php endif; ?>
 <p>メールアドレス</p>
 <input type="text" name="email">
+<p>パスワード</p>
+<input type="password" name="password">
 <p><input type="submit" name="action" value="登録"></p>
 </form>
 </body>
