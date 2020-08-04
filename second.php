@@ -10,7 +10,7 @@ if (empty($_SESSION['name']) || empty($_SESSION['nickname'])) {
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title>ナンバー2</title>
+<title>ナンバー2 ver.1.0</title>
 </head>
 <body>
 <p>登録内容の確認</p>
